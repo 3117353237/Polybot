@@ -32,13 +32,7 @@ QQ 机器人框架，支持多框架协议接入、官机代发、插件系统�
 2. 运行 `PolyBot.exe`
 3. 按界面提示添加账号并配置
 
-## 下载方式
 
-```bash
-git clone https://github.com/3117353237/Polybot.git
-```
-
-或直接在 GitHub 页面点击 `Code` -> `Download ZIP`。
 
 
 ```
