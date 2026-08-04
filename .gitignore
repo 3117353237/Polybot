@@ -1,0 +1,19 @@
+﻿# 用户配置文件（含敏感字段：SecretId/SecretKey/cookies/账号）
+main/data/plugin/官机配置/配置.ini
+main/data/plugin/配置文件/基础配置.ini
+main/data/plugin/配置文件/框架账号.ini
+
+# 运行时状态
+main/corn/flag.data
+
+# 日志和临时文件
+*.log
+*.tmp
+~$*
+Thumbs.db
+desktop.ini
+
+# 易语言源码（不随更新发布）
+*.e
+*.ec
+*.bak
